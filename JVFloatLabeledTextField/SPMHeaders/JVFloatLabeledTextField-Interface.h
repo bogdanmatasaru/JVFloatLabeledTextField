@@ -1,1 +1,0 @@
-../JVFloatLabeledTextField/JVFloatLabeledTextField.h

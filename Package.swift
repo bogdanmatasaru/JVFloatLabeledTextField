@@ -18,7 +18,7 @@ let package = Package(
             dependencies: [],
             path: "JVFloatLabeledTextField",
             sources: ["JVFloatLabeledTextField"],
-            publicHeadersPath: "SPMHeaders"
+            publicHeadersPath: "include"
         )
     ]
 )
