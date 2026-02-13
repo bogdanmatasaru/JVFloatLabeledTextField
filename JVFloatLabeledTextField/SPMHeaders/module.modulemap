@@ -1,0 +1,6 @@
+framework module JVFloatLabeledTextField {
+  umbrella header "JVFloatLabeledTextField.h"
+  header "JVFloatLabeledTextView.h"
+  export *
+  module * { export * }
+}
